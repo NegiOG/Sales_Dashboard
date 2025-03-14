@@ -6,7 +6,8 @@ This project focuses on analyzing **Retail sales performance** using an **intera
 The dataset includes **transaction details, product sales, revenue and customer insights**, allowing for in-depth analysis of sales trends and business performance.
 
 ## 🔗 **How to View the Dashboard**
-1️⃣Click on the link **https://docs.google.com/spreadsheets/d/1qdos1vBR5DxqC3otGAXJM5VFL1wTGXaq/edit?usp=drive_link&ouid=100663579338012458458&rtpof=true&sd=true** to download the **Dashboard File**  
+1️⃣Click on the link to download the **Dashboard File** 
+  **https://docs.google.com/spreadsheets/d/1qdos1vBR5DxqC3otGAXJM5VFL1wTGXaq/edit?usp=drive_link&ouid=100663579338012458458&rtpof=true&sd=true** 
 2️⃣ Open in **Microsoft Excel**  
 3️⃣ Use **Slicers & Filters** to explore insights interactively  
 
