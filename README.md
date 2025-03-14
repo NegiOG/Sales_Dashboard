@@ -5,7 +5,10 @@
 This project focuses on analyzing **Retail sales performance** using an **interactive Excel dashboard**. 
 The dataset includes **transaction details, product sales, revenue and customer insights**, allowing for in-depth analysis of sales trends and business performance.
 
----
+## 🔗 **How to View the Dashboard**
+1️⃣Click on the link **https://docs.google.com/spreadsheets/d/1qdos1vBR5DxqC3otGAXJM5VFL1wTGXaq/edit?usp=drive_link&ouid=100663579338012458458&rtpof=true&sd=true** to download the **Dashboard File**  
+2️⃣ Open in **Microsoft Excel**  
+3️⃣ Use **Slicers & Filters** to explore insights interactively  
 
 ## 📂 Dataset Overview
 - **Dataset Name:** Retail Sales Transactions
@@ -68,20 +71,4 @@ The dataset includes **transaction details, product sales, revenue and customer 
 
 ✅ **Customer Behavior & Retention:**  
    All the payments methods are used equally.
-
----
-
-## 📂 **Project Files**
-📌 `Raw_Data.xlsx` → Original dataset  
-📌 `Cleaned_Data.xlsx` → Processed data for analysis  
-📌 `Sales_Analysis.xlsx` → Pivot tables & findings  
-📌 `Sales_Dashboard.xlsx` → Final interactive dashboard  
-📌 `README.md` → Project details & documentation  
-
----
-
-## 🔗 **How to View the Dashboard**
-1️⃣Click on the link https://docs.google.com/spreadsheets/d/1qdos1vBR5DxqC3otGAXJM5VFL1wTGXaq/edit?usp=drive_link&ouid=100663579338012458458&rtpof=true&sd=true to view/download the **Dashboard File**  
-2️⃣ Open in **Microsoft Excel**  
-3️⃣ Use **Slicers & Filters** to explore insights interactively  
 
